@@ -1,3 +1,9 @@
+## important links:
+
+[source repo](https://github.com/FullstackAcademy/baked-potatoes.git)
+
+---
+
 # Baked Potatoes
 
 Let's practice making changes in a local Git repository and syncing those changes
